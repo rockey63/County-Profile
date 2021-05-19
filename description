@@ -1,145 +1,135 @@
-Definitions from ICD-10-CM Data
-Emergency Department Nonfatal Overdoses
-Emergency department (ED) nonfatal overdoses are drug overdoses that present in the ED, defined by any mention of those categorized codes in the discharge paperwork, and survive the overdose event. See below for diagnosis codes.  For T36.9, T37.9, T39.9, T41.4, T42.7, T43.9, T45.9, T47.9, and T49.9, a 5th character of the following—and for all other codes a 6th character of the following—is required:
-1: Accidental (unintentional)
-2: Intentional self-harm
-3: Assault or
-4: Undetermined intent.
-Note: 5th or 6th characters of “5” (denoting adverse effect) or “6” (denoting underdosing) are excluded from overdose-related counts.
-If present, a 7th character of “A” is required, indicating an initial encounter for active treatment.
-Any Drug
-T36–T50: Poisoning by drugs, medicaments, and biological substances
-Any Opioid
-T40.0X: Poisoning by opium
-T40.1X: Poisoning by heroin
-T40.2X: Poisoning by other opioids
-T40.3X: Poisoning by methadone
-T40.4X: Poisoning by synthetic narcotics
-T40.60: Poisoning by unspecified narcotics and
-T40.69: Poisoning by other narcotics
-Heroin 
-T40.1X: Poisoning by heroin
-Non-Heroin Opioid
-T40.0X: Poisoning by opium
-T40.2X: Poisoning by other opioids
-T40.3X: Poisoning by methadone
-T40.4X: Poisoning by synthetic narcotics
-T40.60: Poisoning by unspecified narcotics and
-T40.69: Poisoning by other narcotics
-Stimulant
-T40.5X: Poisoning by cocaine
-T43.60: Poisoning by unspecified psychostimulants
-T43.61: Poisoning by caffeine
-T43.62: Poisoning by amphetamines
-T43.63: Poisoning by methylphenidate
-T43.64: Poisoning by ecstasy and
-T43.69: Poisoning by other psychostimulants
-Cocaine 
-T40.5X: Poisoning by cocaine
-Non-Cocaine Stimulant
-T43.60: Poisoning by unspecified psychostimulants
-T43.61: Poisoning by caffeine
-T43.62: Poisoning by amphetamines
-T43.63: Poisoning by methylphenidate
-T43.64: Poisoning by ecstasy and
-T43.69: Poisoning by other psychostimulants
-Overdose Fatalities
-Death certificate ICD-10 codes are scanned to identify overdose fatalities of Kentucky residents. A drug overdose death was defined as an event that included an underlying cause of death code falling within the following ranges: X40–X44, X60–X64, X85, or Y10–Y14. Drug overdose deaths are identified by drug type using the following ICD-10 codes:
-Any Opioid
-T40.0: Poisoning by opium
-T40.1: Poisoning by heroin
-T40.2: Poisoning by other opioids
-T40.3: Poisoning by methadone
-T40.4: Poisoning by synthetic narcotics and
-T40.6 Poisoning by unspecified or other narcotics
-Heroin 
-T40.1: Poisoning by heroin
-Non-Heroin Opioid
-T40.0: Poisoning by opium
-T40.2: Poisoning by other opioids
-T40.3: Poisoning by methadone
-T40.4: Poisoning by synthetic narcotics
-T40.60: Poisoning by unspecified narcotics and
-T40.69: Poisoning by other narcotics
-Stimulant
-T40.5: Poisoning by cocaine
-T43.60: Poisoning by unspecified psychostimulants
-T43.61: Poisoning by caffeine
-T43.62: Poisoning by amphetamines
-T43.63: Poisoning by methylphenidate
-T43.64: Poisoning by ecstasy and
-T43.69: Poisoning by other psychostimulants
-Cocaine 
-T40.5: Poisoning by cocaine
-Non-Cocaine Stimulant
-T43.60: Poisoning by unspecified psychostimulants
-T43.61: Poisoning by caffeine
-T43.62: Poisoning by amphetamines
-T43.63: Poisoning by methylphenidate
-T43.64: Poisoning by ecstasy and
-T43.69: Poisoning by other psychostimulants
-Substance Use Disorder Diagnosis
-This indicator is meant to capture ED visits or inpatient hospitalizations with a substance use disorder diagnosis (not necessarily the initial diagnosis—any time the code is used for billing) in any diagnosis field. Note that alcohol related disorders, nicotine dependence, and inhalant related disorders are excluded. ED or inpatient hospitalization records are scanned for the following ICD-10-CM codes:
-Any Opioid
-F11: Opioid related disorders
-F12: Cannabis related disorders
-F13: Sedative, hypnotic, or anxiolytic related disorders
-F14: Cocaine related disorders
-F15: Other stimulant related disorders
-F16: Hallucinogen related disorders and
-F19: Other psychoactive substance related disorders
-Infectious Disease
-Hepatitis A
-B15.0: Hepatitis A with hepatic coma and
-B15.9: Hepatitis A without hepatic coma
-Hepatitis C
-B17.10: Acute hepatitis C without hepatic coma
-B17.11: Acute hepatitis C with hepatic coma
-B18.2: Chronic viral hepatitis C
-B19.20: Unspecified viral hepatitis C without hepatic coma
-B19.21: Unspecified viral hepatitis C with hepatic coma and
-Z22.52: Carrier of viral hepatitis C
-Human Immunodeficiency Virus (HIV) Disease
-B20: Human immunodeficiency virus (HIV) disease and
-Z21: Asymptomatic human immunodeficiency virus (HIV) infection status
-Endocarditis
-B37.6: Candidal endocarditis
-I33.0: Acute and subacute infective endocarditis
-I33.9: Acute and subacute infective endocarditis, unspecified
-I38: Endocarditis, valve unspecified
-I39: Endocarditis and heart valve disorders in diseases classified elsewhere and
-A32.82: Listerial endocarditis
-Hepatitis A Comorbid to Drug Use
-Any ICD-10-CM code found in Drug(s) with Potential for Abuse and Dependence AND one or more of the ICD-10-CM codes found in Hepatitis A.
-Hepatitis C Comorbid to Drug Use 
-Any ICD-10-CM code found in Drug(s) with Potential for Abuse and Dependence AND one or more of the ICD-10-CM codes found in Hepatitis C.
-Human Immunodeficiency Virus (HIV) Disease Comorbid to Drug Use 
-Any ICD-10-CM code found in Drug(s) with Potential for Abuse and Dependence AND one or more of the ICD-10-CM codes found in Human Immunodeficiency Virus (HIV) Disease.
-Endocarditis Comorbid to Drug Use
-Any ICD-10-CM code found in Drug(s) with Potential for Abuse and Dependence AND one or more of the ICD-10-CM codes found in Endocarditis.
-Drug(s) with Potential for Abuse and Dependence
-The Council of State and Territorial Epidemiologists’ (CSTE) Indicator 7 definition was used (see below for codes), except both ED and inpatient regular expressions take an “any mention” approach and scan all diagnosis codes included in discharge; the CSTE’s inpatient definition typically only scans the primary diagnosis code. 
-F11.1–F11.9: Opioid-related disorders
-F12.1–F12.9: Cannabis-related disorders
-F13.1–F13.9: Sedative-, hypnotic-, or anxiolytic related disorders
-F14.1–F14.9: Cocaine-related disorders
-F15.1–15.9: Other stimulant-related disorders
-F16.1–F16.9: Hallucinogen-related disorders
-F19.1–F19.9: Other psychoactive substance-related disorders
-O99.32: Drug use complicating pregnancy, childbirth, and the puerperium
-P04.4: Newborn suspected to be affected by maternal use of drugs of addiction
-P96.1: Neonatal withdrawal symptoms from maternal use of drugs of addiction
-T40.0–T40.9: Poisoning by narcotics and hallucinogens
-T42.3: Poisoning by barbiturates
-T42.4: Poisoning by benzodiazepines
-T42.6: Poisoning by other antiepileptic and sedative-hypnotic drugs
-T42.7: Poisoning by unspecified antiepileptic and sedative-hypnotic drugs and
-T43.6: Poisoning by psychostimulants
-For all T codes, adverse effects, underdosing, and encounters due to sequela are excluded.
-Inpatient Hospitalizations
-Also see Drug(s) with Potential for Abuse and Dependence and Infectious Disease, which are indicators in both ED and inpatient data.
-Neonatal Abstinence Syndrome
-Both codes must be present for an inpatient hospitalization to be counted. Also note that neonates are group by their year of BIRTH, not discharge (unlike the other ED and inpatient indicators). For example, an infant born with NAS at the end of 2019, but discharged in the first quarter of 2020, will be included in the 2019 count. Thus, if available, inpatient data from the first quarter of the year following the final was pulled to allow for those babies discharged later.
-P96.1: Neonatal withdrawal symptoms from maternal use of drugs of addiction AND
-Z38: Liveborn infant according to place of birth and type of delivery
 
+<HTML>
+<div id="definitions-from-icd-10-cm-data" class="section level2">
+<h2><strong>Definitions from ICD-10-CM Data</strong></h2>
+<div id="emergency-department-nonfatal-overdoses" class="section level3">
+<h3><strong>Emergency Department Nonfatal Overdoses</strong></h3>
+<p>Emergency department (ED) nonfatal overdoses are drug overdoses that present in the ED, defined by any mention of those categorized codes in the discharge paperwork. See below for diagnosis codes.&nbsp; For T36.9, T37.9, T39.9, T41.4, T42.7, T43.9, T45.9, T47.9, and T49.9, a 5th character of the following—and for all other codes a 6th character of the following—is required:<br>
+</p>
+<p>1: Accidental (unintentional)<br>
+2: Intentional self-harm<br>
+3: Assault or<br>
+4: Undetermined intent.<br>
+</p>
+<p>Note: 5th or 6th characters of “5” (denoting adverse effect) or “6” (denoting underdosing) are excluded from overdose-related counts.<br>
+</p>
+<p>If present, a 7th character of “A” is required, indicating an initial encounter for active treatment.<br>
+</p>
+<p><strong>Any Drug</strong><br>
+T36–T50: Poisoning by drugs, medicaments, and biological substances<br>
+</p>
+<p><strong>Any Opioid</strong><br>
+T40.0X: Poisoning by opium<br>
+T40.1X: Poisoning by heroin<br>
+T40.2X: Poisoning by other opioids<br>
+T40.3X: Poisoning by methadone<br>
+T40.4X: Poisoning by synthetic narcotics<br>
+T40.60: Poisoning by unspecified narcotics and<br>
+T40.69: Poisoning by other narcotics<br>
+</p>
+<p><strong>Heroin</strong>&nbsp;<br>
+T40.1X: Poisoning by heroin<br>
+</p>
+<p><strong>Non-Heroin Opioid</strong><br>
+T40.0X: Poisoning by opium<br>
+T40.2X: Poisoning by other opioids<br>
+T40.3X: Poisoning by methadone<br>
+T40.4X: Poisoning by synthetic narcotics<br>
+T40.60: Poisoning by unspecified narcotics and<br>
+T40.69: Poisoning by other narcotics<br>
+</p>
+<p><strong>Stimulant</strong><br>
+T40.5X: Poisoning by cocaine<br>
+T43.60: Poisoning by unspecified psychostimulants<br>
+T43.61: Poisoning by caffeine<br>
+T43.62: Poisoning by amphetamines<br>
+T43.63: Poisoning by methylphenidate<br>
+T43.64: Poisoning by ecstasy and<br>
+T43.69: Poisoning by other psychostimulants<br>
+</p>
+<p><strong>Cocaine</strong>&nbsp;<br>
+T40.5X: Poisoning by cocaine<br>
+</p>
+<p><strong>Non-Cocaine Stimulant</strong><br>
+T43.60: Poisoning by unspecified psychostimulants<br>
+T43.61: Poisoning by caffeine<br>
+T43.62: Poisoning by amphetamines<br>
+T43.63: Poisoning by methylphenidate<br>
+T43.64: Poisoning by ecstasy and<br>
+T43.69: Poisoning by other psychostimulants<br>
+</p>
+<p>Also see <strong>Drug(s) with Potential for Abuse and Dependence</strong> and <strong>Infectious Disease</strong>, which are indicators in both ED and inpatient data.<br>
+</p>
+</div>
+<div id="drugs-with-potential-for-abuse-and-dependence" class="section level3">
+<h3><strong>Drug(s) with Potential for Abuse and Dependence</strong><br>
+</h3>
+<p>The Council of State and Territorial Epidemiologists’ (CSTE) Indicator 7 definition was used (see below for codes), except both ED and inpatient regular expressions take an “any mention” approach and scan all diagnosis codes included in discharge; the CSTE’s inpatient definition typically only scans the primary diagnosis code.<br>
+</p>
+<p>F11.1–F11.9: Opioid-related disorders<br>
+F12.1–F12.9: Cannabis-related disorders<br>
+F13.1–F13.9: Sedative-, hypnotic-, or anxiolytic related disorders<br>
+F14.1–F14.9: Cocaine-related disorders<br>
+F15.1–15.9: Other stimulant-related disorders<br>
+F16.1–F16.9: Hallucinogen-related disorders<br>
+F19.1–F19.9: Other psychoactive substance-related disorders<br>
+O99.32: Drug use complicating pregnancy, childbirth, and the puerperium<br>
+P04.4: Newborn suspected to be affected by maternal use of drugs of addiction<br>
+P96.1: Neonatal withdrawal symptoms from maternal use of drugs of addiction<br>
+T40.0–T40.9: Poisoning by narcotics and hallucinogens<br>
+T42.3: Poisoning by barbiturates<br>
+T42.4: Poisoning by benzodiazepines<br>
+T42.6: Poisoning by other antiepileptic and sedative-hypnotic drugs<br>
+T42.7: Poisoning by unspecified antiepileptic and sedative-hypnotic drugs and<br>
+T43.6: Poisoning by psychostimulants<br>
+</p>
+<p>For all T codes, adverse effects, underdosing, and encounters due to sequela are excluded.<br>
+</p>
+</div>
+<div id="infectious-disease" class="section level3">
+<h3><strong>Infectious Disease</strong></h3>
+<p><strong>Hepatitis A</strong><br>
+B15.0: Hepatitis A with hepatic coma and<br>
+B15.9: Hepatitis A without hepatic coma<br>
+</p>
+<p><strong>Hepatitis C</strong><br>
+B17.10: Acute hepatitis C without hepatic coma<br>
+B17.11: Acute hepatitis C with hepatic coma<br>
+B18.2: Chronic viral hepatitis C<br>
+B19.20: Unspecified viral hepatitis C without hepatic coma<br>
+B19.21: Unspecified viral hepatitis C with hepatic coma and<br>
+Z22.52: Carrier of viral hepatitis C<br>
+</p>
+<p><strong>Human Immunodeficiency Virus (HIV) Disease</strong><br>
+B20: Human immunodeficiency virus (HIV) disease and<br>
+Z21: Asymptomatic human immunodeficiency virus (HIV) infection status<br>
+</p>
+<p><strong>Endocarditis</strong><br>
+B37.6: Candidal endocarditis<br>
+I33.0: Acute and subacute infective endocarditis<br>
+I33.9: Acute and subacute infective endocarditis, unspecified<br>
+I38: Endocarditis, valve unspecified<br>
+I39: Endocarditis and heart valve disorders in diseases classified elsewhere and<br>
+A32.82: Listerial endocarditis<br>
+</p>
+<p><strong>Hepatitis A Comorbid to Drug Use</strong><br>
+Any ICD-10-CM code found in <strong>Drug(s) with Potential for Abuse and Dependence</strong> AND one or more of the ICD-10-CM codes found in <strong>Hepatitis A</strong>.</p>
+<p><strong>Hepatitis C Comorbid to Drug Use</strong>&nbsp;<br>
+Any ICD-10-CM code found in <strong>Drug(s) with Potential for Abuse and Dependence</strong> AND one or more of the ICD-10-CM codes found in <strong>Hepatitis C</strong>.</p>
+<p><strong>Human Immunodeficiency Virus (HIV) Disease Comorbid to Drug Use</strong>&nbsp;<br>
+Any ICD-10-CM code found in <strong>Drug(s) with Potential for Abuse and Dependence</strong> AND one or more of the ICD-10-CM codes found in <strong>Human Immunodeficiency Virus (HIV) Disease</strong>.</p>
+<p><strong>Endocarditis Comorbid to Drug Use</strong><br>
+Any ICD-10-CM code found in <strong>Drug(s) with Potential for Abuse and Dependence</strong> AND one or more of the ICD-10-CM codes found in <strong>Endocarditis</strong>.</p>
+</div>
+<div id="inpatient-hospitalizations" class="section level3">
+<h3><strong>Inpatient Hospitalizations</strong><br>
+</h3>
+<p>Also see <strong>Drug(s) with Potential for Abuse and Dependence</strong> and <strong>Infectious Disease</strong>, which are indicators in both ED and inpatient data.<br>
+</p>
+<p><strong>Neonatal Abstinence Syndrome</strong><br>
+Both codes must be present for an inpatient hospitalization to be counted. Also note that neonates are group by their year of BIRTH, not discharge (like all other patients). For example, an infant born with NAS at the end of 2019, but discharged in the first quarter of 2020, will be included in the 2019 count. Thus inpatient data from the first quarter of the year following the final was pulled to allow for those babies discharged later.</p>
+<p>P96.1: Neonatal withdrawal symptoms from maternal use of drugs of addiction AND<br>
+Z38: Liveborn infant according to place of birth and type of delivery<br>
+</p>
+</div>
+</div>
